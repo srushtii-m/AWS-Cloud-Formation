@@ -1,0 +1,3 @@
+Resources:
+  PracticeBucket:
+    Type: 'AWS::S3::Bucket'
