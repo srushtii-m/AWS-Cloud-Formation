@@ -4,7 +4,7 @@
 
 - Intrinsic Functions     
 
-- Condition Functions     
+- [Condition Functions](/Condition-Functions.md)   
 
 - Resource Dependencies      
 
